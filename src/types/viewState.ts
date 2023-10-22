@@ -1,0 +1,1 @@
+export type viewState = "start" | "play" | "restart" | "end"

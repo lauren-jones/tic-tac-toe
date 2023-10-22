@@ -1,0 +1,1 @@
+export type iconType = "X" | "O"
